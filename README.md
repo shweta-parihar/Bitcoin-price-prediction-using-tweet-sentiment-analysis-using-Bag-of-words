@@ -1,1 +1,1 @@
-# Bitcoin-price-prediction-using-tweet-sentiment-analysis-using-TFIDF-Bag-of-words
+# Bitcoin-price-prediction-using-tweet-sentiment-analysis-using-Bag-of-words-model
